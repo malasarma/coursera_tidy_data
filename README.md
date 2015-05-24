@@ -39,4 +39,4 @@ frequency domain variables, on 6 different activities of 30 subjects. This scrip
 * Finally it creates a second, independent tidy data set with the average of each variable for each activity and each subject, using the _melt_ and _dcast_ functions in the **reshape2** package. It saves the tidy data set in both _csv_ and _txt_ formats. **(Step 5)**
 
 ## Additional information
-* Please see the [codebook.md]() file for more details on the variables in the tidy data set
+* Please see the [codebook.md](codebook.md) file for more details on the variables in the tidy data set
