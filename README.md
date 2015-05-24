@@ -19,7 +19,7 @@ frequency domain variables, on 6 different activities of 30 subjects. This scrip
 
 ## How to run _run_analysis.R_
 * The script requires that you set the working directory to the location of the UCI Machine Learning Repository:
-        ![](wd.jpg)
+        ![](wd.JPG)
 * It also requires you to install the __reshape2__ package
 * In an R window, type:
     + source("<path to _run_analysis.R_/run_analysis")
