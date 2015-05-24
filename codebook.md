@@ -12,7 +12,7 @@ output: html_document
 ## Tidy Data set
   
   A data set is derived from the raw data in the UCI HAR Dataset located at:
-  [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip]()
+  [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
   
   The tidy set contains the following variables:
 
@@ -99,4 +99,4 @@ FFT.BodyBodyGyroJerkMag.Std | fBodyBodyGyroJerkMag-std()
 
 
 ## Notes
-For infomation on how to generate the tidy set, see [README.md]() file.
+For infomation on how to generate the tidy set, see [README](README.md) file.
